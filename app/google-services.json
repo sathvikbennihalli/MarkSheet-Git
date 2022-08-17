@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238291282815",
+    "project_id": "marksheet-1b609",
+    "storage_bucket": "marksheet-1b609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238291282815:android:71296c258323afa09e884a",
+        "android_client_info": {
+          "package_name": "com.example.marksheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238291282815-0dunl2hj79sktddnpcdks197hfe1v89h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuUYN6gGPMG92DWklisp1DKjNGfES_CTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238291282815-0dunl2hj79sktddnpcdks197hfe1v89h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
